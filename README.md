@@ -1,8 +1,5 @@
 # Code_reviewer_sample
 
-*Full DO + GitLab guide:** [docs/FUNCTIONS-UI.md](docs/FUNCTIONS-UI.md)
-
-
 | You do in the UI               | Link                                                                                              |
 | ------------------------------ | ------------------------------------------------------------------------------------------------- |
 | Create PostgreSQL + run schema | [Databases](https://cloud.digitalocean.com/databases)                                             |
