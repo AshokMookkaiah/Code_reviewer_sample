@@ -3,7 +3,7 @@
 | You do in the UI               | Link                                                                                              |
 | ------------------------------ | ------------------------------------------------------------------------------------------------- |                     
 | Create model access key        | [Model access keys](https://cloud.digitalocean.com/gen-ai/model-access-keys)                      |
-| Paste function code            | [Functions](https://cloud.digitalocean.com/functions) → Source → `ui-deploy/gitlab_mr_webhook.py` |
+| Paste function code            | [Functions](https://cloud.digitalocean.com/functions) → Source → 'function.py'                    |
 | Encrypted secrets              | Function → **Settings → Environment variables** (Encrypt)                                         |
 | GitLab webhook                 | [Project hooks](https://gitlab.com/ashokmookkaiah-group/sample-ai-reviewer/-/hooks)               |
 
